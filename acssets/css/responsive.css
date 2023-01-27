@@ -1,15 +1,15 @@
 /* PC */
-@media (min-width: 1024px) {
+@media (min-width: 64em) {
 
 }
 
 /* Tablet */
-@media (max-width: 1023px) and (min-width: 740px) {
+@media (max-width: 63.9375em) and (min-width: 46.25em) {
    
 }
 
 /* Tablet & mobile */
-@media (max-width :1023px) {
+@media (max-width :63.9375em) {
     .btn {
         padding: 16px 17px;
     }
@@ -39,7 +39,7 @@
 }
 
 /* Mobile */
-@media (max-width: 740px) {
+@media (max-width: 46.1875em) {
     .s-mt-8 {
         margin-top: 8px !important;
     }
